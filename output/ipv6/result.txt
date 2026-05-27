@@ -1,0 +1,15 @@
+🕘️更新时间,#genre#
+2026-05-27 17:16:46,https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+
+📺央视频道,#genre#
+CCTV-4,https://www.youtube.com/channel/UC4K_LI-Tn3-LshNgG0-YypQ/live
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13
+CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
+
+📡卫视频道,#genre#
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+
+☘️广东频道,#genre#
