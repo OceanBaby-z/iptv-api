@@ -50,9 +50,18 @@ jobs:
           export https_proxy="http://127.0.0.1:40000"
           curl -6 --connect-timeout 10 https://6.ipw.cn || echo "⚠️ WARP IPv6 建立失败，但将尝试强制继续..."
 
-      - name: 6. 安装项目 Pipfile 依赖
+      - name: 6. 安装原生 Python 核心依赖并强行启动打捞
         run: |
-          pipenv install --deploy
+          python -m pip install --upgrade pip
+          pip install requests tqdm openpyxl flask markupsafe==2.0.1
+          git checkout -- *.py || true
+          rm -rf __pycache__ || true
+          rm -rf data || true
+          rm -rf user_result.txt || true
+          rm -rf output || true
+          export http_proxy="http://127.0.0.1:40000"
+          export https_proxy="http://127.0.0.1:40000"
+          python main.py
 
       - name: 7. 执行核心打捞与测速脚本
         run: |
