@@ -1,6 +1,9 @@
-# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
-# 如果有多个本地源文件，可以在config目录下创建local目录进行存放，支持txt/m3u文件格式
-# 支持设置白名单：接口后添加$!
-# The local source list, one line per source, format: channel name, interface address
-# Support setting whitelist: add $! after the interface
-# If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
+港澳台,#genre#
+翡翠台,https://hkstv.vcdn.biz/live/hkstv/playlist.m3u8
+凤凰中文,http://117.169.124.51:8080/live/fhzw/.m3u8
+凤凰资讯,http://117.169.124.51:8080/live/fhzx/.m3u8
+欧美综合,#genre#
+HBO HD,http://45.153.21.115:8000/play/a029
+CNN International,http://103.199.161.254:8080/ip/live/cnn/playlist.m3u8
+BBC News,http://103.199.161.254:8080/ip/live/bbc/playlist.m3u8
+NHK World,https://nhkworld.akamaized.net/hls/live/2023588/nhkworld/index_1180.m3u8
