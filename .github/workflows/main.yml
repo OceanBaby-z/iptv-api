@@ -61,7 +61,7 @@ jobs:
           rm -rf data || true
           rm -rf user_result.txt || true
           rm -rf output || true
-          pipenv run pip install markupsafe==2.0.1
+          pipenv install markupsafe==2.0.1
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           pipenv run python main.py
