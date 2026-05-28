@@ -171,11 +171,13 @@ TVBS新聞
 东森新闻
 東森新聞
 
-[海外综合],#genre#
-HBO
-Discovery
-National Geographic
-CNN
-BBC World News
-NHK World
-KBS World
+[欧美综合]
+HBO HD
+HBO Plus
+Discovery Channel East
+National Geographic HD
+CNN International
+BBC News
+ESPN US
+TLC
+MTV US
