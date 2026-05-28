@@ -56,6 +56,8 @@ jobs:
 
       - name: 7. 执行核心打捞与测速脚本
         run: |
+          git checkout -- *.py || true
+          rm -rf __pycache__ || true
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           pipenv run python main.py
