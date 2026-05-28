@@ -155,3 +155,20 @@ CETV-4,
 拉萨综合,
 内蒙古经济,
 呼和浩特综合,
+港澳台,#genre#
+翡翠台
+明珠台
+TVB经典
+凤凰中文
+凤凰资讯
+中天新闻
+TVBS新闻
+东森新闻
+海外综合,#genre#
+HBO
+Discovery
+National Geographic
+CNN
+BBC World News
+NHK World
+KBS World
