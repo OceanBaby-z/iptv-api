@@ -156,17 +156,22 @@ CETV-4,
 内蒙古经济,
 呼和浩特综合,
 
-港澳台,#genre#
+[港澳台]
 翡翠台
 明珠台
 TVB经典
 凤凰中文
+鳳凰中文
 凤凰资讯
+鳳凰資訊
 中天新闻
+中天新聞
 TVBS新闻
+TVBS新聞
 东森新闻
+東森新聞
 
-海外综合,#genre#
+[海外综合],#genre#
 HBO
 Discovery
 National Geographic
