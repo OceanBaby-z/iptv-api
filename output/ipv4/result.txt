@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-28 09:15:46,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-05-28 10:49:34,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -283,7 +283,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 云南卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
 云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 
-☘️广东频道,#genre#
+☘️地方频道,#genre#
 广东珠江,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 广东珠江,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 广东珠江,https://live.zbds.top/tv/iptv6.m3u
@@ -298,11 +298,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 广东新闻,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 广东新闻,https://live.zbds.top/tv/iptv6.m3u
 广东新闻,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-广东卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
-广东卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
-广东卫视,https://live.zbds.top/tv/iptv6.m3u
-广东卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 广东民生,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 广东民生,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 广东民生,https://live.zbds.top/tv/iptv6.m3u
@@ -338,11 +333,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 佛山综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 佛山综合,https://live.zbds.top/tv/iptv6.m3u
 佛山综合,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-深圳卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
-深圳卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
-深圳卫视,https://live.zbds.top/tv/iptv6.m3u
-深圳卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 汕头综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 汕头综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 汕头综合,https://live.zbds.top/tv/iptv6.m3u
@@ -363,8 +353,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 茂名公共,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 茂名公共,https://live.zbds.top/tv/iptv6.m3u
 茂名公共,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-
-地方综合頻道,#genre#
 北京文艺,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 北京文艺,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 北京文艺,https://live.zbds.top/tv/iptv6.m3u
@@ -382,11 +370,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 东方影视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 东方影视,https://live.zbds.top/tv/iptv6.m3u
 东方影视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-广东珠江,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
-广东珠江,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
-广东珠江,https://live.zbds.top/tv/iptv6.m3u
-广东珠江,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
 广东公共,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 广东公共,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 广东公共,https://live.zbds.top/tv/iptv6.m3u
@@ -582,10 +565,6 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 海南综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 海南综合,https://live.zbds.top/tv/iptv6.m3u
 海南综合,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-三沙卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
-三沙卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
-三沙卫视,https://live.zbds.top/tv/iptv6.m3u
-三沙卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
 海口综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 海口综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 海口综合,https://live.zbds.top/tv/iptv6.m3u
