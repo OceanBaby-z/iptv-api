@@ -58,6 +58,9 @@ jobs:
         run: |
           git checkout -- *.py || true
           rm -rf __pycache__ || true
+          rm -rf data || true
+          rm -rf user_result.txt || true
+          rm -rf output || true
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           pipenv run python main.py
