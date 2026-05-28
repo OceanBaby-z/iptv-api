@@ -50,17 +50,17 @@ jobs:
           export https_proxy="http://127.0.0.1:40000"
           curl -6 --connect-timeout 10 https://6.ipw.cn || echo "⚠️ WARP IPv6 建立失败，但将尝试强制继续..."
 
-      - name: 6. 最終執行環境配置與測速
+      - name: 6. 配置環境並執行打撈
         run: |
-          # 1. 安裝所有必要的依賴到系統環境
-          python -m pip install --upgrade pip setuptools wheel
+          # 更新工具並安裝所有核心庫
+          python -m pip install --upgrade pip
           pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
           
-          # 2. 強制清理舊殘留
+          # 清理舊數據
           git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
           
-          # 3. 執行主程序（取消 pipenv，直接用原生 python 運行）
+          # 設定代理並運行（直接使用原生 Python）
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           python main.py
