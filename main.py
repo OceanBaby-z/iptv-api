@@ -1,12 +1,21 @@
-import asyncio
-import copy
-import datetime
-import gzip
-import os
-import pickle
 import sys
-from time import time
-from typing import Callable, Optional, Any
+import subprocess
+
+# 檢查依賴，如果發現缺失則強制安裝
+def check_dependencies():
+    deps = ['requests', 'tqdm', 'openpyxl', 'flask', 'markupsafe', 'pytz']
+    for dep in deps:
+        try:
+            __import__(dep)
+        except ImportError:
+            subprocess.check_call([sys.executable, "-m", "pip", "install", dep])
+
+check_dependencies()
+
+# 下面接著你原本的 import 語句
+import pytz
+import requests
+# ... 原本的代碼 ...
 
 import pytz
 from tqdm import tqdm
