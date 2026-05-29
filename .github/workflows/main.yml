@@ -1,5 +1,8 @@
 name: Update schedule
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch: # 支持手动点击运行
   schedule:
@@ -53,7 +56,6 @@ jobs:
       - name: 6. 统一环境配置与核心打捞
         run: |
           # 1. 清洗缓存
-          git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
           find . -name "*.pyc" -delete || true
           
@@ -62,15 +64,15 @@ jobs:
           export https_proxy="http://127.0.0.1:40000"
           
           # 3. 核心破局：強制在全局工具快取的 Python 環境中安裝，並直接指定國內鏡像源加速
-          python -m pip install --upgrade pip setuptools wheel
-          python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz -i https://pypi.tuna.tsinghua.edu.cn/simple
+          python -m pip install --upgrade pip setuptools wheel pipenv
+          PIPENV_VENV_IN_PROJECT=1 pipenv install --deploy
           
           # 4. 驗證依賴是否真的裝進去了（這步如果沒報錯，說明 pytz 絕對存在）
-          python -c "import pytz; print('pytz 驗證成功:', pytz.__file__)"
+          pipenv run python -c "import aiohttp, bs4, flask, ipdb, m3u8, opencc, pytz, requests, tqdm; print('依赖验证成功')"
           
           # 5. 注入系統路換尋路變量並啟動
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}"
-          python main.py
+          pipenv run python main.py
           
       - name: 8. 将生成的专属直播源提交并推送至个人仓库
         run: |

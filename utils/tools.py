@@ -1388,7 +1388,7 @@ def close_logger_handlers(logger) -> None:
 
 def fast_get_ipv_type(host: str | None) -> str | None:
     """
-    Infer the IPv type from a host string without DNS resolution.
+    Infer the IPv type from an IP-literal host without DNS resolution.
     """
     if not host:
         return None
@@ -1400,4 +1400,4 @@ def fast_get_ipv_type(host: str | None) -> str | None:
     try:
         return f"ipv{ipaddress.ip_address(normalized_host).version}"
     except ValueError:
-        return "ipv4"
+        return None

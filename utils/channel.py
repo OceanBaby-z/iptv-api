@@ -494,6 +494,8 @@ def append_data_to_info_data(
                     ipv_type = ipv_type_data[host]
                 else:
                     ipv_type = fast_get_ipv_type(host)
+                    if not ipv_type:
+                        ipv_type = ip_checker.get_ipv_type(url)
                     if ipv_type_data is not None and host:
                         ipv_type_data[host] = ipv_type
 
