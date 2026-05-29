@@ -52,36 +52,23 @@ jobs:
 
       - name: 6. 统一环境配置与核心打捞
         run: |
-          # 1. 强制在当前执行的 Python 环境中安装全套依赖，并使用 --user 确保最高权限
+          # 1. 升级工具并直接安装全套依赖到当前环境
           python -m pip install --upgrade pip setuptools wheel
-          python -m pip install --user requests tqdm openpyxl flask markupsafe==2.0.1 pytz
+          python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
           
           # 2. 彻底清洗可能导致路径污染的临时缓存
           git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
           find . -name "*.pyc" -delete || true
           
-          # 3. 注入系统路径环境变量，强行破解代码内部的路径污染
+          # 3. 注入系统路径环境变量，强行破解代码内部的路径错位
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}"
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           
-          # 4. 绕过 Flask 服务端，直接利用原生 Python 运行真正的打捞和更新逻辑
-          # (该开源项目的核心自动化入口通常是根目录下的主逻辑，或者 utils 里的任务触发器)
-          python main.py --update || python main.py
+          # 4. 彻底抛弃 pipenv，直接用原生 python 启动主逻辑
+          python main.py
           
-      - name: 7. 执行核心打捞与测速脚本
-        run: |
-          git checkout -- *.py || true
-          rm -rf __pycache__ || true
-          rm -rf data || true
-          rm -rf user_result.txt || true
-          rm -rf output || true
-          pipenv run python -m pip install "markupsafe==2.0.1" --force-reinstall
-          export http_proxy="http://127.0.0.1:40000"
-          export https_proxy="http://127.0.0.1:40000"
-          pipenv run python main.py
-
       - name: 8. 将生成的专属直播源提交并推送至个人仓库
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
