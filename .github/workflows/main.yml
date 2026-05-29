@@ -52,20 +52,24 @@ jobs:
 
       - name: 6. 统一环境配置与核心打捞
         run: |
-          # 1. 彻底清洗可能导致路径污染的临时缓存
+          # 1. 清洗缓存
           git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
           find . -name "*.pyc" -delete || true
           
-          # 2. 注入全局环境变量
+          # 2. 配置網絡代理（確保能連上服務器）
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           
-          # 3. 终极破局：使用 --user 强制把依賴灌進當前用戶最優先的尋路環境
+          # 3. 核心破局：強制在全局工具快取的 Python 環境中安裝，並直接指定國內鏡像源加速
           python -m pip install --upgrade pip setuptools wheel
-          python -m pip install --user requests tqdm openpyxl flask markupsafe==2.0.1 pytz
+          python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz -i https://pypi.tuna.tsinghua.edu.cn/simple
           
-          # 4. 直接原生启动
+          # 4. 驗證依賴是否真的裝進去了（這步如果沒報錯，說明 pytz 絕對存在）
+          python -c "import pytz; print('pytz 驗證成功:', pytz.__file__)"
+          
+          # 5. 注入系統路換尋路變量並啟動
+          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}"
           python main.py
           
       - name: 8. 将生成的专属直播源提交并推送至个人仓库
