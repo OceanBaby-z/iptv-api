@@ -1,28 +1,3 @@
-import sys, subprocess
-# 强行用当前执行 main.py 的这个二进制文件去安装 pytz
-subprocess.check_call([sys.executable, "-m", "pip", "install", "pytz", "requests", "tqdm", "openpyxl", "flask", "markupsafe==2.0.1"])
-import sys
-import subprocess
-
-# 檢查依賴，如果發現缺失則強制安裝
-def check_dependencies():
-    deps = ['requests', 'tqdm', 'openpyxl', 'flask', 'markupsafe', 'pytz']
-    for dep in deps:
-        try:
-            __import__(dep)
-        except ImportError:
-            subprocess.check_call([sys.executable, "-m", "pip", "install", dep])
-
-check_dependencies()
-
-# 下面接著你原本的 import 語句
-import pytz
-import requests
-# ... 原本的代碼 ...
-
-import pytz
-from tqdm import tqdm
-
 import utils.constants as constants
 import utils.frozen as frozen
 from updates.epg import get_epg
