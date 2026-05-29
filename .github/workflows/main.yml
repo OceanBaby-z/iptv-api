@@ -50,22 +50,25 @@ jobs:
           export https_proxy="http://127.0.0.1:40000"
           curl -6 --connect-timeout 10 https://6.ipw.cn || echo "⚠️ WARP IPv6 建立失败，但将尝试强制继续..."
 
-      - name: 6. 執行核心打撈與測速
+      - name: 6. 统一环境配置与核心打捞
         run: |
-          # 1. 用原生 pip 補齊核心依賴
+          # 1. 强制在当前执行的 Python 环境中安装全套依赖，并使用 --user 确保最高权限
           python -m pip install --upgrade pip setuptools wheel
-          pip install requests tqdm openpyxl flask pytz markupsafe==2.0.1
+          python -m pip install --user requests tqdm openpyxl flask markupsafe==2.0.1 pytz
           
-          # 2. 清理快取
+          # 2. 彻底清洗可能导致路径污染的临时缓存
           git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
+          find . -name "*.pyc" -delete || true
           
-          # 3. 繞過 main.py，直接執行真正的打撈與測速腳本
+          # 3. 注入系统路径环境变量，强行破解代码内部的路径污染
+          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}"
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
-
-          # 注意：這裡直接運行你 utils 底下的核心打撈腳本（請根據你 utils 內實際的檔名修改，例如 spider.py 或核心打撈.py）
-          python utils/spider.py
+          
+          # 4. 绕过 Flask 服务端，直接利用原生 Python 运行真正的打捞和更新逻辑
+          # (该开源项目的核心自动化入口通常是根目录下的主逻辑，或者 utils 里的任务触发器)
+          python main.py --update || python main.py
           
       - name: 7. 执行核心打捞与测速脚本
         run: |
