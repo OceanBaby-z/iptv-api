@@ -62,9 +62,12 @@ jobs:
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           
-          # 3. 终极破局：利用当前执行环境的专属 pip，强制在运行前 1 秒补齐依赖
+          # 3. 终极破局：利用当前执行环境的专属 python 进程，强制在运行前 1 秒补齐依赖
           python -m pip install --upgrade pip
           python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
+          
+          # 4. 直接原生启动
+          python main.py
           
           # 4. 直接原生启动
           python main.py
