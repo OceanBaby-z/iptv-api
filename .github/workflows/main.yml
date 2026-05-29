@@ -50,21 +50,23 @@ jobs:
           export https_proxy="http://127.0.0.1:40000"
           curl -6 --connect-timeout 10 https://6.ipw.cn || echo "⚠️ WARP IPv6 建立失败，但将尝试强制继续..."
 
-      - name: 6. 配置環境並執行打撈
+      - name: 6. 執行核心打撈與測速
         run: |
-          # 更新工具並安裝所有核心庫
-          python -m pip install --upgrade pip
-          pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
+          # 1. 用原生 pip 補齊核心依賴
+          python -m pip install --upgrade pip setuptools wheel
+          pip install requests tqdm openpyxl flask pytz markupsafe==2.0.1
           
-          # 清理舊數據
+          # 2. 清理快取
           git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
           
-          # 設定代理並運行（直接使用原生 Python）
+          # 3. 繞過 main.py，直接執行真正的打撈與測速腳本
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
-          python main.py
 
+          # 注意：這裡直接運行你 utils 底下的核心打撈腳本（請根據你 utils 內實際的檔名修改，例如 spider.py 或核心打撈.py）
+          python utils/spider.py
+          
       - name: 7. 执行核心打捞与测速脚本
         run: |
           git checkout -- *.py || true
