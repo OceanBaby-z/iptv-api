@@ -1,3 +1,6 @@
+import sys, subprocess
+# 强行用当前执行 main.py 的这个二进制文件去安装 pytz
+subprocess.check_call([sys.executable, "-m", "pip", "install", "pytz", "requests", "tqdm", "openpyxl", "flask", "markupsafe==2.0.1"])
 import sys
 import subprocess
 
