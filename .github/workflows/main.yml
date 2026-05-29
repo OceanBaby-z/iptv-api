@@ -69,9 +69,6 @@ jobs:
           # 4. 直接原生启动
           python main.py
           
-          # 4. 直接原生启动
-          python main.py
-          
       - name: 8. 将生成的专属直播源提交并推送至个人仓库
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
