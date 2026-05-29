@@ -57,14 +57,13 @@ jobs:
           rm -rf __pycache__ data user_result.txt output || true
           find . -name "*.pyc" -delete || true
           
-          # 2. 注入系统路径环境变量
-          export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}"
+          # 2. 注入全局环境变量
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           
-          # 3. 终极破局：利用当前执行环境的专属 python 进程，强制在运行前 1 秒补齐依赖
-          python -m pip install --upgrade pip
-          python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
+          # 3. 终极破局：使用 --user 强制把依賴灌進當前用戶最優先的尋路環境
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install --user requests tqdm openpyxl flask markupsafe==2.0.1 pytz
           
           # 4. 直接原生启动
           python main.py
