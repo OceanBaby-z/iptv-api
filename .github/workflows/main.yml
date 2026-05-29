@@ -52,21 +52,21 @@ jobs:
 
       - name: 6. 统一环境配置与核心打捞
         run: |
-          # 1. 升级工具并直接安装全套依赖到当前环境
-          python -m pip install --upgrade pip setuptools wheel
-          python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
-          
-          # 2. 彻底清洗可能导致路径污染的临时缓存
+          # 1. 彻底清洗可能导致路径污染的临时缓存
           git checkout -- *.py || true
           rm -rf __pycache__ data user_result.txt output || true
           find . -name "*.pyc" -delete || true
           
-          # 3. 注入系统路径环境变量，强行破解代码内部的路径错位
+          # 2. 注入系统路径环境变量
           export PYTHONPATH="${PYTHONPATH}:${GITHUB_WORKSPACE}"
           export http_proxy="http://127.0.0.1:40000"
           export https_proxy="http://127.0.0.1:40000"
           
-          # 4. 彻底抛弃 pipenv，直接用原生 python 启动主逻辑
+          # 3. 终极破局：利用当前执行环境的专属 pip，强制在运行前 1 秒补齐依赖
+          python -m pip install --upgrade pip
+          python -m pip install requests tqdm openpyxl flask markupsafe==2.0.1 pytz
+          
+          # 4. 直接原生启动
           python main.py
           
       - name: 8. 将生成的专属直播源提交并推送至个人仓库
