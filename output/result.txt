@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-03 07:44:32,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-04 07:30:44,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -70,7 +70,6 @@ CCTV-15,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-15,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-15,https://live.zbds.top/tv/iptv6.m3u
 CCTV-15,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV-16,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-16,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-16,https://live.zbds.top/tv/iptv6.m3u
@@ -109,12 +108,12 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江卫视,https://live.zbds.top/tv/iptv6.m3u
 浙江卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 湖南卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 湖南卫视,https://live.zbds.top/tv/iptv6.m3u
 湖南卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 北京卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 北京卫视,https://live.zbds.top/tv/iptv6.m3u
@@ -313,6 +312,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 北京新闻,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 北京新闻,https://live.zbds.top/tv/iptv6.m3u
 北京新闻,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 上海新闻,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 上海新闻,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 上海新闻,https://live.zbds.top/tv/iptv6.m3u
@@ -345,8 +345,8 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江民生,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江民生,https://live.zbds.top/tv/iptv6.m3u
 浙江民生,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
 杭州综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 杭州综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 杭州综合,https://live.zbds.top/tv/iptv6.m3u
@@ -472,6 +472,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 河北都市,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 河北都市,https://live.zbds.top/tv/iptv6.m3u
 河北都市,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8
 石家庄综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 石家庄综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 石家庄综合,https://live.zbds.top/tv/iptv6.m3u
@@ -548,6 +549,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 辽宁都市,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 辽宁都市,https://live.zbds.top/tv/iptv6.m3u
 辽宁都市,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 沈阳综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 沈阳综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 沈阳综合,https://live.zbds.top/tv/iptv6.m3u
@@ -708,6 +710,7 @@ CNN International,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CNN International,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CNN International,https://live.zbds.top/tv/iptv6.m3u
 CNN International,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 BBC News,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 BBC News,https://live.zbds.top/tv/iptv6.m3u
@@ -727,9 +730,6 @@ MTV US,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 
 ♻️未匹配频道,#genre#
 老故事,http://59.32.97.20:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
 农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
@@ -761,16 +761,16 @@ CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 河北农民,http://121.19.134.246:808/hls/25/index.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/720p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -788,13 +788,8 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-NewTV精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
 BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
 BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
