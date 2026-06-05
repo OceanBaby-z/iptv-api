@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-05 07:06:46
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-06 07:04:25
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -208,7 +208,7 @@ https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
@@ -218,7 +218,7 @@ https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视频道",北京卫视
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -511,6 +511,8 @@ https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️地方频道",广州综合
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州综合.png" group-title="☘️地方频道",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州影视.png" group-title="☘️地方频道",广州影视
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州影视.png" group-title="☘️地方频道",广州影视
@@ -673,6 +675,10 @@ https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️地方频道",浙江民生
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️地方频道",浙江民生
+http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️地方频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/杭州综合.png" group-title="☘️地方频道",杭州综合
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/杭州综合.png" group-title="☘️地方频道",杭州综合
@@ -921,6 +927,8 @@ https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北都市.png" group-title="☘️地方频道",河北都市
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北都市.png" group-title="☘️地方频道",河北都市
+https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 tvg-id="石家庄综合" tvg-name="石家庄综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/石家庄综合.png" group-title="☘️地方频道",石家庄综合
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="石家庄综合" tvg-name="石家庄综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/石家庄综合.png" group-title="☘️地方频道",石家庄综合
@@ -1429,6 +1437,8 @@ https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channe
 http://59.32.97.20:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4K.png" group-title="♻️未匹配频道",CCTV-4K
 http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵团卫视.png" group-title="♻️未匹配频道",兵团卫视
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/农林卫视.png" group-title="♻️未匹配频道",农林卫视
 http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/厦门卫视.png" group-title="♻️未匹配频道",厦门卫视
@@ -1439,6 +1449,8 @@ http://112.27.235.94:8000/hls/28/index.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 #EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南国都市.png" group-title="♻️未匹配频道",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="♻️未匹配频道",北京卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="♻️未匹配频道",金鹰卡通
 http://183.11.239.36:808/hls/69/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="♻️未匹配频道",金鹰卡通
@@ -1466,9 +1478,9 @@ http://121.19.134.246:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="浙江休闲台" tvg-name="浙江休闲台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江休闲台.png" group-title="♻️未匹配频道",浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江公共新闻.png" group-title="♻️未匹配频道",浙江公共新闻
-http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江国际.png" group-title="♻️未匹配频道",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江国际.png" group-title="♻️未匹配频道",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江教科.png" group-title="♻️未匹配频道",浙江教科
@@ -1480,13 +1492,13 @@ http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江数码时代.png" group-title="♻️未匹配频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江新闻.png" group-title="♻️未匹配频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
 #EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江新闻.png" group-title="♻️未匹配频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生休闲.png" group-title="♻️未匹配频道",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="♻️未匹配频道",浙江经济
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
 #EXTINF:-1 tvg-id="浙江经济" tvg-name="浙江经济" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济.png" group-title="♻️未匹配频道",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江经济生活.png" group-title="♻️未匹配频道",浙江经济生活
@@ -1515,58 +1527,12 @@ https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 http://112.27.235.94:8000/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/音乐现场.png" group-title="♻️未匹配频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-id="BRTV Kaku Childrens Channel" tvg-name="BRTV Kaku Childrens Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BRTV Kaku Childrens Channel.png" group-title="♻️未匹配频道",BRTV Kaku Childrens Channel
-http://49.113.179.174:4022/udp/238.125.2.216:5140
-#EXTINF:-1 tvg-id="BRTV Science & Education Channel" tvg-name="BRTV Science & Education Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BRTV Science & Education Channel.png" group-title="♻️未匹配频道",BRTV Science & Education Channel
-http://49.113.179.174:4022/udp/238.125.3.121:5140
 #EXTINF:-1 tvg-id="BRTV 北京卫视 (1080p)" tvg-name="BRTV 北京卫视 (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BRTV 北京卫视 (1080p).png" group-title="♻️未匹配频道",BRTV 北京卫视 (1080p)
 http://go.bkpcp.top/mg/bjws
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8K.png" group-title="♻️未匹配频道",CCTV-8K
 http://198.204.240.250:82/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="Channel Law" tvg-name="Channel Law" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Channel Law.png" group-title="♻️未匹配频道",Channel Law
-http://49.113.179.174:4022/udp/238.125.2.201:5140
-#EXTINF:-1 tvg-id="City Theater Channel" tvg-name="City Theater Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/City Theater Channel.png" group-title="♻️未匹配频道",City Theater Channel
-http://49.113.179.174:4022/udp/238.125.1.60:5140
-#EXTINF:-1 tvg-id="Ecology & Environment TV" tvg-name="Ecology & Environment TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Ecology & Environment TV.png" group-title="♻️未匹配频道",Ecology & Environment TV
-http://49.113.179.174:4022/udp/238.125.2.175:5140
-#EXTINF:-1 tvg-id="Game Channel" tvg-name="Game Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Game Channel.png" group-title="♻️未匹配频道",Game Channel
-http://49.113.179.174:4022/udp/238.125.1.36:5140
-#EXTINF:-1 tvg-id="Hunan Ping Yu" tvg-name="Hunan Ping Yu" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hunan Ping Yu.png" group-title="♻️未匹配频道",Hunan Ping Yu
-http://49.113.179.174:4022/udp/238.125.5.102:5140
 #EXTINF:-1 tvg-id="Hunan TV (2160p)" tvg-name="Hunan TV (2160p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Hunan TV (2160p).png" group-title="♻️未匹配频道",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="JiaJia Cartoon" tvg-name="JiaJia Cartoon" tvg-logo="https://www.xn--rgv465a.top/tvlogo/JiaJia Cartoon.png" group-title="♻️未匹配频道",JiaJia Cartoon
-http://49.113.179.174:4022/udp/238.125.0.158:5140
-#EXTINF:-1 tvg-id="Laughter Theater" tvg-name="Laughter Theater" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Laughter Theater.png" group-title="♻️未匹配频道",Laughter Theater
-http://49.113.179.174:4022/udp/238.125.2.159:5140
-#EXTINF:-1 tvg-id="Shaanxi Agroforestry Satellite TV" tvg-name="Shaanxi Agroforestry Satellite TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Shaanxi Agroforestry Satellite TV.png" group-title="♻️未匹配频道",Shaanxi Agroforestry Satellite TV
-http://49.113.179.174:4022/udp/238.125.4.154:5140
-#EXTINF:-1 tvg-id="Shandong Education TV" tvg-name="Shandong Education TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Shandong Education TV.png" group-title="♻️未匹配频道",Shandong Education TV
-http://49.113.179.174:4022/udp/238.125.0.156:5140
-#EXTINF:-1 tvg-id="Sihai Fishing Channel" tvg-name="Sihai Fishing Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Sihai Fishing Channel.png" group-title="♻️未匹配频道",Sihai Fishing Channel
-http://49.113.179.174:4022/udp/238.125.2.172:5140
-#EXTINF:-1 tvg-id="SMG Football Channel" tvg-name="SMG Football Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SMG Football Channel.png" group-title="♻️未匹配频道",SMG Football Channel
-http://49.113.179.174:4022/udp/238.125.2.142:5140
-#EXTINF:-1 tvg-id="Toonmax TV" tvg-name="Toonmax TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Toonmax TV.png" group-title="♻️未匹配频道",Toonmax TV
-http://49.113.179.174:4022/udp/238.125.4.28:5140
-#EXTINF:-1 tvg-id="Ugo Shop TV" tvg-name="Ugo Shop TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Ugo Shop TV.png" group-title="♻️未匹配频道",Ugo Shop TV
-http://49.113.179.174:4022/udp/238.125.4.184:5140
-#EXTINF:-1 tvg-id="World Economy Channel" tvg-name="World Economy Channel" tvg-logo="https://www.xn--rgv465a.top/tvlogo/World Economy Channel.png" group-title="♻️未匹配频道",World Economy Channel
-http://49.113.179.174:4022/udp/238.125.2.205:5140
-#EXTINF:-1 tvg-id="Xinjiang TV 2" tvg-name="Xinjiang TV 2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Xinjiang TV 2.png" group-title="♻️未匹配频道",Xinjiang TV 2
-http://49.113.179.174:4022/udp/238.125.3.175:5140
-#EXTINF:-1 tvg-id="Xinjiang TV 3" tvg-name="Xinjiang TV 3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Xinjiang TV 3.png" group-title="♻️未匹配频道",Xinjiang TV 3
-http://49.113.179.174:4022/udp/238.125.7.147:5140
-#EXTINF:-1 tvg-id="Xinjiang TV 5" tvg-name="Xinjiang TV 5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Xinjiang TV 5.png" group-title="♻️未匹配频道",Xinjiang TV 5
-http://49.113.179.174:4022/udp/238.125.7.149:5140
-#EXTINF:-1 tvg-id="Xinjiang TV 8" tvg-name="Xinjiang TV 8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Xinjiang TV 8.png" group-title="♻️未匹配频道",Xinjiang TV 8
-http://49.113.179.174:4022/udp/238.125.3.181:5140
-#EXTINF:-1 tvg-id="Xinjiang TV 9" tvg-name="Xinjiang TV 9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Xinjiang TV 9.png" group-title="♻️未匹配频道",Xinjiang TV 9
-http://49.113.179.174:4022/udp/238.125.7.153:5140
-#EXTINF:-1 tvg-id="Xinjiang TV 12" tvg-name="Xinjiang TV 12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Xinjiang TV 12.png" group-title="♻️未匹配频道",Xinjiang TV 12
-http://49.113.179.174:4022/udp/238.125.3.185:5140
-#EXTINF:-1 tvg-id="Yicai TV" tvg-name="Yicai TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Yicai TV.png" group-title="♻️未匹配频道",Yicai TV
-http://49.113.179.174:4022/udp/238.125.0.165:5140
 #EXTINF:-1 tvg-id="Zhejiang TV International" tvg-name="Zhejiang TV International" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Zhejiang TV International.png" group-title="♻️未匹配频道",Zhejiang TV International
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="天津卫视 (1080p)" tvg-name="天津卫视 (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天津卫视 (1080p).png" group-title="♻️未匹配频道",天津卫视 (1080p)
