@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 07:04:25,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-07 07:00:02,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -107,7 +107,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江卫视,https://live.zbds.top/tv/iptv6.m3u
 浙江卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 湖南卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 湖南卫视,https://live.zbds.top/tv/iptv6.m3u
@@ -343,8 +343,8 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江民生,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江民生,https://live.zbds.top/tv/iptv6.m3u
 浙江民生,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 杭州综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 杭州综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 杭州综合,https://live.zbds.top/tv/iptv6.m3u
@@ -747,16 +747,15 @@ CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 河北农民,http://121.19.134.246:808/hls/25/index.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8

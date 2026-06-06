@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-06 07:04:25,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-07 07:00:02,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -109,7 +109,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江卫视,https://live.zbds.top/tv/iptv6.m3u
 浙江卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 湖南卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 湖南卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 湖南卫视,https://live.zbds.top/tv/iptv6.m3u
@@ -346,8 +346,8 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江民生,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江民生,https://live.zbds.top/tv/iptv6.m3u
 浙江民生,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 杭州综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 杭州综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 杭州综合,https://live.zbds.top/tv/iptv6.m3u
@@ -751,25 +751,24 @@ CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 吉林乡村,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
 数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
-河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北农民,http://121.19.134.246:808/hls/25/index.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -788,7 +787,7 @@ FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 NewTV精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
