@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-10 07:17:13,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-11 07:24:01,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -42,7 +42,6 @@ CCTV-9,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-9,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-9,https://live.zbds.top/tv/iptv6.m3u
 CCTV-9,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-10,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-10,https://live.zbds.top/tv/iptv6.m3u
@@ -537,7 +536,6 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 辽宁都市,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 辽宁都市,https://live.zbds.top/tv/iptv6.m3u
 辽宁都市,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 沈阳综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 沈阳综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 沈阳综合,https://live.zbds.top/tv/iptv6.m3u
@@ -698,7 +696,6 @@ CNN International,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CNN International,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CNN International,https://live.zbds.top/tv/iptv6.m3u
 CNN International,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 BBC News,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 BBC News,https://live.zbds.top/tv/iptv6.m3u
@@ -727,6 +724,7 @@ MTV US,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
+河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
