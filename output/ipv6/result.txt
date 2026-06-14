@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-14 07:01:28,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-15 07:05:04,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -138,7 +138,6 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 东南卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 东南卫视,https://live.zbds.top/tv/iptv6.m3u
 东南卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 甘肃卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 甘肃卫视,https://live.zbds.top/tv/iptv6.m3u
@@ -537,6 +536,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 辽宁都市,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 辽宁都市,https://live.zbds.top/tv/iptv6.m3u
 辽宁都市,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 沈阳综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 沈阳综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 沈阳综合,https://live.zbds.top/tv/iptv6.m3u
@@ -697,6 +697,7 @@ CNN International,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CNN International,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CNN International,https://live.zbds.top/tv/iptv6.m3u
 CNN International,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 BBC News,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 BBC News,https://live.zbds.top/tv/iptv6.m3u
@@ -715,23 +716,14 @@ MTV US,https://live.zbds.top/tv/iptv6.m3u
 MTV US,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
 
 ♻️未匹配频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
-河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
-FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
-NewTV精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 BabyTV Spain (1080p),https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
 Bollywood HD Russia (576p),https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
@@ -740,9 +732,6 @@ Nickelodeon (1080p),https://xykt-fix.github.io/iptv/streams/SP57.m3u8
 Nickelodeon (1080p),http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 Nickelodeon Junior (1080p),http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 Seven Channel (720p) [Not 24/7],https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
-福州广播电视台新闻综合频道 (FZTV-1) (1080p),http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-福州广播电视台都市生活频道 (FZTV-3) (1080p),http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-福州电视台少儿频道 (FZTV-少儿) (1080p),http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 Euronews Albania Ⓨ,https://www.youtube.com/@EuronewsAlbania/live
 TN Todo Noticias Ⓨ,https://www.youtube.com/c/todonoticias/live
 Encuentro Ⓨ Ⓖ,https://www.youtube.com/user/encuentro/live
