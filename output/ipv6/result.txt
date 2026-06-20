@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-20 06:52:48,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-21 07:04:10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -42,7 +42,6 @@ CCTV-9,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-9,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-9,https://live.zbds.top/tv/iptv6.m3u
 CCTV-9,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-10,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-10,https://live.zbds.top/tv/iptv6.m3u
@@ -138,7 +137,6 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 东南卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 东南卫视,https://live.zbds.top/tv/iptv6.m3u
 东南卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 甘肃卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 甘肃卫视,https://live.zbds.top/tv/iptv6.m3u
@@ -720,10 +718,9 @@ MTV US,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
-三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 安顺新闻,https://ls.qingting.fm/live/5022203/64k.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
-河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 FZTV3,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8
