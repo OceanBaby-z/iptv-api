@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-21 07:04:10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-22 07:08:49,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -42,6 +42,7 @@ CCTV-9,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-9,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-9,https://live.zbds.top/tv/iptv6.m3u
 CCTV-9,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-10,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-10,https://live.zbds.top/tv/iptv6.m3u
@@ -137,6 +138,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 东南卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 东南卫视,https://live.zbds.top/tv/iptv6.m3u
 东南卫视,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 甘肃卫视,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 甘肃卫视,https://live.zbds.top/tv/iptv6.m3u
@@ -535,7 +537,6 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 辽宁都市,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 辽宁都市,https://live.zbds.top/tv/iptv6.m3u
 辽宁都市,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 沈阳综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 沈阳综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 沈阳综合,https://live.zbds.top/tv/iptv6.m3u
@@ -696,7 +697,6 @@ CNN International,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CNN International,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CNN International,https://live.zbds.top/tv/iptv6.m3u
 CNN International,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CNN International,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 BBC News,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 BBC News,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 BBC News,https://live.zbds.top/tv/iptv6.m3u
