@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-28 07:00:01
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-06-29 07:00:02
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -1479,6 +1479,8 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="WGN-DT1 (720p)" tvg-name="WGN-DT1 (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/WGN-DT1 (720p).png" group-title="♻️未匹配频道",WGN-DT1 (720p)
 http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 tvg-id="Yes Network (720p)" tvg-name="Yes Network (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Yes Network (720p).png" group-title="♻️未匹配频道",Yes Network (720p)
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视 (576p)" tvg-name="内蒙古卫视 (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视 (576p).png" group-title="♻️未匹配频道",内蒙古卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视 (576p)" tvg-name="内蒙古卫视 (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视 (576p).png" group-title="♻️未匹配频道",内蒙古卫视 (576p)

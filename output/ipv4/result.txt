@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-28 07:00:01,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-06-29 07:00:02,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -747,6 +747,7 @@ Starz Kids & Family (1080p),http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3
 SYFY (720p),http://23.237.104.106:8080/USA_SYFY/index.m3u8
 VICE TV (1080p),http://23.237.104.106:8080/USA_VICETV/index.m3u8
 WGN-DT1 (720p),http://23.237.104.106:8080/USA_WGN/index.m3u8
+Yes Network (720p),http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 内蒙古卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 内蒙古卫视 (576p),http://117.169.120.140:8080/live/neimenggustv/.m3u8
 内蒙古卫视 (576p),http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
