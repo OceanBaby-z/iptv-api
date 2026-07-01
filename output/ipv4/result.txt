@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-01 07:07:38,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-07-02 07:10:49,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -731,21 +731,8 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 CCTV-4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-Nickelodeon (1080p),http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-Outdoor Channel HD (720p),http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-Revolt (720p),http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 RTV 1 (576p) [Not 24/7],212.200.255.151/rtv1
 RTV 2 (576p) [Not 24/7],212.200.255.151/rtv2
-Showtime (1080p),http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-Showtime Family Zone (720p),http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-Starz (1080p),http://23.237.104.106:8080/USA_STARZ/index.m3u8
-Starz Cinema (720p),http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-Starz Comedy (1080p),http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-Starz Kids & Family (1080p),http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-SYFY (720p),http://23.237.104.106:8080/USA_SYFY/index.m3u8
-VICE TV (1080p),http://23.237.104.106:8080/USA_VICETV/index.m3u8
-WGN-DT1 (720p),http://23.237.104.106:8080/USA_WGN/index.m3u8
-Yes Network (720p),http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 内蒙古卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 内蒙古卫视 (576p),http://117.169.120.140:8080/live/neimenggustv/.m3u8
 内蒙古卫视 (576p),http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-01 07:07:38
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-02 07:10:49
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -1419,18 +1419,10 @@ https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channe
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/康巴卫视.png" group-title="♻️未匹配频道",康巴卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="BabyTV Spain (1080p)" tvg-name="BabyTV Spain (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BabyTV Spain (1080p).png" group-title="♻️未匹配频道",BabyTV Spain (1080p)
-https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood HD Russia (576p)" tvg-name="Bollywood HD Russia (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bollywood HD Russia (576p).png" group-title="♻️未匹配频道",Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="DreamTV (1080p)" tvg-name="DreamTV (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamTV (1080p).png" group-title="♻️未匹配频道",DreamTV (1080p)
 https://xykt-fix.github.io/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon (1080p)" tvg-name="Nickelodeon (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon (1080p).png" group-title="♻️未匹配频道",Nickelodeon (1080p)
-https://xykt-fix.github.io/iptv/streams/SP57.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon (1080p)" tvg-name="Nickelodeon (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon (1080p).png" group-title="♻️未匹配频道",Nickelodeon (1080p)
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon Junior (1080p)" tvg-name="Nickelodeon Junior (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon Junior (1080p).png" group-title="♻️未匹配频道",Nickelodeon Junior (1080p)
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="Seven Channel (720p) [Not 24/7]" tvg-name="Seven Channel (720p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Seven Channel (720p) [Not 24/7].png" group-title="♻️未匹配频道",Seven Channel (720p) [Not 24/7]
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 #EXTINF:-1 tvg-id="Euronews Albania Ⓨ" tvg-name="Euronews Albania Ⓨ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews Albania Ⓨ.png" group-title="♻️未匹配频道",Euronews Albania Ⓨ

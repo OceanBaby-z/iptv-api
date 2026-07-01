@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-01 07:07:38
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-02 07:10:49
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -1447,36 +1447,10 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV-4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4美洲.png" group-title="♻️未匹配频道",CCTV-4美洲
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon (1080p)" tvg-name="Nickelodeon (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Nickelodeon (1080p).png" group-title="♻️未匹配频道",Nickelodeon (1080p)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Outdoor Channel HD (720p)" tvg-name="Outdoor Channel HD (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Outdoor Channel HD (720p).png" group-title="♻️未匹配频道",Outdoor Channel HD (720p)
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-id="Revolt (720p)" tvg-name="Revolt (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Revolt (720p).png" group-title="♻️未匹配频道",Revolt (720p)
-http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="RTV 1 (576p) [Not 24/7]" tvg-name="RTV 1 (576p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RTV 1 (576p) [Not 24/7].png" group-title="♻️未匹配频道",RTV 1 (576p) [Not 24/7]
 212.200.255.151/rtv1
 #EXTINF:-1 tvg-id="RTV 2 (576p) [Not 24/7]" tvg-name="RTV 2 (576p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RTV 2 (576p) [Not 24/7].png" group-title="♻️未匹配频道",RTV 2 (576p) [Not 24/7]
 212.200.255.151/rtv2
-#EXTINF:-1 tvg-id="Showtime (1080p)" tvg-name="Showtime (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Showtime (1080p).png" group-title="♻️未匹配频道",Showtime (1080p)
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime Family Zone (720p)" tvg-name="Showtime Family Zone (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Showtime Family Zone (720p).png" group-title="♻️未匹配频道",Showtime Family Zone (720p)
-http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Starz (1080p)" tvg-name="Starz (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz (1080p).png" group-title="♻️未匹配频道",Starz (1080p)
-http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-id="Starz Cinema (720p)" tvg-name="Starz Cinema (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz Cinema (720p).png" group-title="♻️未匹配频道",Starz Cinema (720p)
-http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
-#EXTINF:-1 tvg-id="Starz Comedy (1080p)" tvg-name="Starz Comedy (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz Comedy (1080p).png" group-title="♻️未匹配频道",Starz Comedy (1080p)
-http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Starz Kids & Family (1080p)" tvg-name="Starz Kids & Family (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Starz Kids & Family (1080p).png" group-title="♻️未匹配频道",Starz Kids & Family (1080p)
-http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="SYFY (720p)" tvg-name="SYFY (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/SYFY (720p).png" group-title="♻️未匹配频道",SYFY (720p)
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="VICE TV (1080p)" tvg-name="VICE TV (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/VICE TV (1080p).png" group-title="♻️未匹配频道",VICE TV (1080p)
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1 tvg-id="WGN-DT1 (720p)" tvg-name="WGN-DT1 (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/WGN-DT1 (720p).png" group-title="♻️未匹配频道",WGN-DT1 (720p)
-http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-id="Yes Network (720p)" tvg-name="Yes Network (720p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Yes Network (720p).png" group-title="♻️未匹配频道",Yes Network (720p)
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视 (576p)" tvg-name="内蒙古卫视 (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视 (576p).png" group-title="♻️未匹配频道",内蒙古卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视 (576p)" tvg-name="内蒙古卫视 (576p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内蒙古卫视 (576p).png" group-title="♻️未匹配频道",内蒙古卫视 (576p)

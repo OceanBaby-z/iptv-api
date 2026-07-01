@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-01 07:07:38,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-07-02 07:10:49,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -717,12 +717,8 @@ MTV US,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 ♻️未匹配频道,#genre#
 延边卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-BabyTV Spain (1080p),https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8
 Bollywood HD Russia (576p),https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 DreamTV (1080p),https://xykt-fix.github.io/play/a02j/index.m3u8
-Nickelodeon (1080p),https://xykt-fix.github.io/iptv/streams/SP57.m3u8
-Nickelodeon (1080p),http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-Nickelodeon Junior (1080p),http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 Seven Channel (720p) [Not 24/7],https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 Euronews Albania Ⓨ,https://www.youtube.com/@EuronewsAlbania/live
 TN Todo Noticias Ⓨ,https://www.youtube.com/c/todonoticias/live
