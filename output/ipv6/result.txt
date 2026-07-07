@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 07:04:44,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-07-08 06:57:31,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -42,7 +42,6 @@ CCTV-9,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-9,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-9,https://live.zbds.top/tv/iptv6.m3u
 CCTV-9,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-10,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-10,https://live.zbds.top/tv/iptv6.m3u
