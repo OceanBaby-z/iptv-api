@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-12 06:43:02,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-07-13 06:42:56,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
