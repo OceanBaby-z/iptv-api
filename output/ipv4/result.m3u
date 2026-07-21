@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-21 06:55:38
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-07-22 06:51:59
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -659,8 +659,6 @@ https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️地方频道",浙江民生
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江民生.png" group-title="☘️地方频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/杭州综合.png" group-title="☘️地方频道",杭州综合
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/杭州综合.png" group-title="☘️地方频道",杭州综合
