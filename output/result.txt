@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-24 06:52:53,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-07-25 06:58:19,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -43,7 +43,6 @@ CCTV-9,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-9,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-9,https://live.zbds.top/tv/iptv6.m3u
 CCTV-9,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-10,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-10,https://live.zbds.top/tv/iptv6.m3u
@@ -337,6 +336,7 @@ CETV-4,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 浙江民生,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 浙江民生,https://live.zbds.top/tv/iptv6.m3u
 浙江民生,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 杭州综合,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 杭州综合,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 杭州综合,https://live.zbds.top/tv/iptv6.m3u
