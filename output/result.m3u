@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-05 06:58:50
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-06 06:54:45
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -51,6 +51,8 @@ https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 https://live.zbds.top/tv/iptv6.m3u
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
 https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视频道",CCTV-5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6
@@ -1461,6 +1463,8 @@ https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="DreamTV (1080p)" tvg-name="DreamTV (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamTV (1080p).png" group-title="♻️未匹配频道",DreamTV (1080p)
 https://xykt-fix.github.io/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="iTV HD" tvg-name="iTV HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iTV HD.png" group-title="♻️未匹配频道",iTV HD
+https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="RTV 1 (576p) [Not 24/7]" tvg-name="RTV 1 (576p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RTV 1 (576p) [Not 24/7].png" group-title="♻️未匹配频道",RTV 1 (576p) [Not 24/7]
 212.200.255.151/rtv1
 #EXTINF:-1 tvg-id="RTV 2 (576p) [Not 24/7]" tvg-name="RTV 2 (576p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/RTV 2 (576p) [Not 24/7].png" group-title="♻️未匹配频道",RTV 2 (576p) [Not 24/7]

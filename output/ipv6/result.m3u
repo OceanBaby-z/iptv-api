@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/OceanBaby-z/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-05 06:58:50
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-06 06:54:46
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -1423,6 +1423,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="DreamTV (1080p)" tvg-name="DreamTV (1080p)" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamTV (1080p).png" group-title="♻️未匹配频道",DreamTV (1080p)
 https://xykt-fix.github.io/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="iTV HD" tvg-name="iTV HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/iTV HD.png" group-title="♻️未匹配频道",iTV HD
+https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="Seven Channel (720p) [Not 24/7]" tvg-name="Seven Channel (720p) [Not 24/7]" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Seven Channel (720p) [Not 24/7].png" group-title="♻️未匹配频道",Seven Channel (720p) [Not 24/7]
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 #EXTINF:-1 tvg-id="Euronews Albania Ⓨ" tvg-name="Euronews Albania Ⓨ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews Albania Ⓨ.png" group-title="♻️未匹配频道",Euronews Albania Ⓨ

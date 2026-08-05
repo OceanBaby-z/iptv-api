@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-05 06:58:50,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-08-06 06:54:46,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -719,6 +719,7 @@ MTV US,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected
 康巴卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 Bollywood HD Russia (576p),https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 DreamTV (1080p),https://xykt-fix.github.io/play/a02j/index.m3u8
+iTV HD,https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
 Seven Channel (720p) [Not 24/7],https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
 Euronews Albania Ⓨ,https://www.youtube.com/@EuronewsAlbania/live
 TN Todo Noticias Ⓨ,https://www.youtube.com/c/todonoticias/live

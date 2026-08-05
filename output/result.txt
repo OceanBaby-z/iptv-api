@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-05 06:58:50,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
+2026-08-06 06:54:45,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 
 📺央视频道,#genre#
 CCTV-1,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
@@ -27,6 +27,7 @@ CCTV-5+,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-5+,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-5+,https://live.zbds.top/tv/iptv6.m3u
 CCTV-5+,https://raw.githubusercontent.com/Melianservant/Custom-IPTV/main/Selected_Channels.m3u
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,https://raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u
 CCTV-6,https://raw.githubusercontent.com/Guovin/TV/gd/output/result.txt
 CCTV-6,https://live.zbds.top/tv/iptv6.m3u
@@ -738,6 +739,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 Bollywood HD Russia (576p),https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 CCTV-4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 DreamTV (1080p),https://xykt-fix.github.io/play/a02j/index.m3u8
+iTV HD,https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
 RTV 1 (576p) [Not 24/7],212.200.255.151/rtv1
 RTV 2 (576p) [Not 24/7],212.200.255.151/rtv2
 Seven Channel (720p) [Not 24/7],https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
